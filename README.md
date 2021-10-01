@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FredaYaremi
-- 👀 I’m interested in Front End Developer tools.
-- 🌱 I’m currently learning Code Basics.
-- 💞️ I’m looking to collaborate on anything to help me learn. 
+- Hi, I’m @FredaYaremi
+- I’m interested in being a  Front End Developer.
+- I’m currently learning Code.
+- I would love to have a mentor. 
 
 
 <!---
